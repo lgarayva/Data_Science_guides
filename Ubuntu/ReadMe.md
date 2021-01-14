@@ -1,5 +1,5 @@
 
-# Guia para usuarios configurar Ubuntu para DataScience
+# Guia de usuarios para configurar Ubuntu para DataScience
 
 Lo primero que hacemos es actualizar las librerías y paqueterías que nos ayudarán a configurar nuestra máquina. Para esto corremos las siguientes instrucciones en la terminal Ctrl+Alt+terminal
 
