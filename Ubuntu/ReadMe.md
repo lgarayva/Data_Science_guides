@@ -109,6 +109,14 @@ sudo apt-get install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 
 
 ## R y Rstudio
 
+```
+sudo apt-get install curl 
+sudo apt-get install libssl-dev 
+sudo apt-get install libcurl4-openssl-dev 
+sudo apt-get install libxml2-dev
+
+```
+
 Para instalar R:
 
 ```
